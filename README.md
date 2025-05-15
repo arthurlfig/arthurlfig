@@ -1,5 +1,6 @@
 # 💫 About Me:
 📕 Eu estudo Engenharia de Software na PUCPR, estou neste momento no terceiro periodo!<br>🎧 Gosto de ouvir musica, toco guitarra. Gosto mais de rock e metal;<br>🎮 Jogo muitos videogames, meu jogo favorito é Uncharted;<br>🌊 Eu fiz natação e ja competi pela matriz de Curitiba;
+
 ---
 
 
